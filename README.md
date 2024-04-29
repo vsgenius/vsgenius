@@ -13,6 +13,8 @@ My name is Vladimir. I'm frontend developer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="jest" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" title="vue" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-origin.svg" title="svelte" width="50" height="50"/>
 </div>
 
 ### :fire: My Stats : 😎
